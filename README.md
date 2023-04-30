@@ -30,7 +30,7 @@ GitHub can be used to host your content in one of two ways. This document covers
 
 A second function known as GitHub Pages can be used to create an actual blog structure. Configuring and using GitHub Pages will be covered in a separate document. 
 
-## PRESENTING YOUR CONTENT IN A PLEASANT WAY
+## USING YOUR PROFILE TO PRESENT YOUR DOCUMENTS IN A PLEASANT WAY
 A GitHub profile page (`https://github.com/<yourusername>`) is a powerful presentation tool unto itself, but it doesn't start out that way. Thankfully, taking control of your profile page and using it to display your own custom content is easy. 
 
 After you've configured the options available in the Profile menu, it's time to create your first repo.
